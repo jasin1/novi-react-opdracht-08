@@ -12,7 +12,6 @@ function NavBar() {
 
 
 
-    // console.log(whatsInTheContext);
 
     return (
         <nav>
